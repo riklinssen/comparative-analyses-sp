@@ -193,7 +193,7 @@ Data/Raw/*
 Data/Output/*
 !Data/Output/.keep
 
-Visualisations
+Visualisations/*
 !Visualisations/.keep
 
 
@@ -204,5 +204,4 @@ src/data/*/*
 
 src/alt_graphs/*
 !src/graphs/.keep
-
 
